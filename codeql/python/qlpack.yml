@@ -1,0 +1,4 @@
+name: aerostack/mcp-python-generic-queries
+version: 0.0.1
+dependencies:
+  codeql/python-queries: "*"
